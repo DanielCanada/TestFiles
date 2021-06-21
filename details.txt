@@ -1,0 +1,2 @@
+new details inside new-feature branch
+includes information and details on new website and style format
